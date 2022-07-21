@@ -1,0 +1,83 @@
+{
+  "radiosound.1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/1",
+        "stream": true
+      }
+    ]
+  },
+  "radiosound.2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/2",
+        "stream": true
+      }
+    ]
+  },
+  "radiosound.3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/3",
+        "stream": true
+      }
+    ]
+  },
+  "radiosound.4": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/4",
+        "stream": true
+      }
+    ]
+  },
+  "radiosound.5": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/5",
+        "stream": true
+      }
+    ]
+  },
+  "radiosound.6": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/6",
+        "stream": true
+      }
+    ]
+  },
+  "radiosound.7": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/7",
+        "stream": true
+      }
+    ]
+  },
+  "radiosound.8": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/8",
+        "stream": true
+      }
+    ]
+  },
+  "radiosound.page": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "olivemodradio:radiosound/page",
+        "stream": true
+      }
+    ]
+  }
+}
